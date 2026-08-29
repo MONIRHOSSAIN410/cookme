@@ -1,0 +1,6 @@
+{
+  "name": "CookMe E-Commerce Store",
+  "description": "A modern, full-featured e-commerce platform with responsive design, smooth carousel animations, Redux state management, dark mode, product filtering, user dashboard, and an integrated AI shopping assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
